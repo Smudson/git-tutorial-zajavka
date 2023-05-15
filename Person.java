@@ -7,4 +7,5 @@ public class Person {
     public Integer age(){
         return 40;
     }
+    public static final String HEIGHT = "100";
 }
