@@ -1,6 +1,8 @@
 import java.math.BigDecimal;
 
 public class Person {
+
+    //jakies zmiany
     public static final String HEIGHT = "100";
     private String name;
     private BigDecimal salary;
